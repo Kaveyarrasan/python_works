@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/python-arsenal.iml" filepath="$PROJECT_DIR$/.idea/python-arsenal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_works.iml" filepath="$PROJECT_DIR$/.idea/python_works.iml" />
     </modules>
   </component>
 </project>
